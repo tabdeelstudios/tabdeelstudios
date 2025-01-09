@@ -99,3 +99,5 @@ Hello! I'm [Your Name](https://www.linkedin.com/in/yourprofile) (or [Your Websit
 
 Last updated: January 2025  
 Status: [Currently working on X or Y]
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tabdeelstudios)](https://git.io/streak-stats)
