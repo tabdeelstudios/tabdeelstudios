@@ -14,6 +14,7 @@ Hello! I'm [Your Name](https://www.linkedin.com/in/yourprofile) (or [Your Websit
 - 📫 How to reach me: [email@example.com](mailto:email@example.com).
 - ⚡ Fun fact: [Random fun fact about you].
 
+Hello there~
 ## 🚀 Skills & Technologies
 
 ### 💻 Programming Languages & Tools
