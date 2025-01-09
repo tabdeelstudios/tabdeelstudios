@@ -33,9 +33,9 @@ Hello! I'm [Your Name](https://www.linkedin.com/in/yourprofile) (or [Your Websit
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabdeelstudios&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabdeelstudios&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
