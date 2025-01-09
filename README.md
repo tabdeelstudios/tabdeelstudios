@@ -1,5 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tabdeelstudios)](https://git.io/streak-stats)
+
 ## About Me
 
 Hello! I'm [Your Name](https://www.linkedin.com/in/yourprofile) (or [Your Website](https://yourwebsite.com)), a passionate software developer with a love for building scalable applications, solving challenging problems, and learning new technologies. Currently, I'm working on [current projects or focus area].
